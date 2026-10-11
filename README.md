@@ -26,6 +26,30 @@ The main Jupyter Notebook for this project is available in this repository:
 
 ## Disclaimer
 HajjSafe is an academic project. Its predictions should not be treated as definitive proof of fraud. Suspicious information should be verified through official sources.
+## Installation and Usage
 
+### 1. Clone the Repository
+
+```bash
+git clone https://github.com/wa6an/hajjsafe-hajj-scam-detection.git
+cd hajjsafe-hajj-scam-detection
+```
+
+### 2. Install Dependencies
+
+```bash
+pip install -r requirements.txt
+```
+
+### 3. Run the Project
+
+Open the Jupyter Notebook files in Jupyter Notebook or Google Colab and run the cells in order.
+
+## Project Files
+
+- `HajjSafe_Capstone_Project (5).ipynb` — Main project notebook.
+- `RECOMMENDATION (1).ipynb` — Recommendation notebook.
+- `HAJJSAFE AI (1).docx` — Project report.
+- `requirements.txt` — Python dependencies.
 ## Author
 Developed as an AI capstone project.
